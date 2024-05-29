@@ -1,7 +1,8 @@
-<img width="1728" alt="Screenshot 2023-08-04 at 11 23 38 PM" src="https://github.com/aggarwalsejal/ENotes-React/assets/56756275/19a6ae58-94d9-410b-8912-cc5b3d4ef28e">
+
+<img width="958" alt="enote" src="https://github.com/tanishgoyal/React-E-Notes-/assets/59969085/1f5fc73e-152e-4fdf-94c6-33171e0b562d">
 
 <h3 align=center > :smile: <strong>E-Notes</strong> is a <em><strong>React website</strong></em> o keep your daily notes and easy access provided to them :smile: </h3>
-<p align=center> :heart: Visit the website and try it once https://enotes-ui.aggarwalsejal.com/  :heart:</p>
+<p align=center> :heart: Visit the website and try it once https://react-e-notes.onrender.com/  :heart:</p>
 
 # :bookmark_tabs: What’s In This Document
 
